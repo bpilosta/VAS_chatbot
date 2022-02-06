@@ -1,0 +1,91 @@
+categories:
+- pocetak
+conversations:
+- - Hej!
+  - Bok!
+- - Bok
+  - Bok!
+- - Ej
+  - Bok!
+- - Tko si ti?
+  - Ja sam Chatbot, kako se ti zoves?
+- - Kaj ima?
+  - Evo cekam da se netko razgovara sa mnom
+- - Sta ima?
+  - Evo cekam da se netko razgovara sa mnom
+- - Kako se zoves?
+  - Ja sam Chatbot, kako se ti zoves?
+- - Kako se ja zovem?
+  - Ti se zoves
+- - Koje je moje ime?
+  - Ti se zoves
+- - Tko sam ja
+  - Ti se zoves
+- - Sto sve mozes raditi?
+  - Mogu ti reci koje komponente prodajemo, obaviti kupnju za tebe, dati preporuke, ako zelis znati vise samo reci.
+- - Sto sve znas raditi?
+  - Mogu ti reci koje komponente prodajemo, obaviti kupnju za tebe, dati preporuke, ako zelis znati vise samo reci.
+- - Zelim znati vise
+  - U redu, znaci...
+- - Hocu znati vise
+  - U redu, znaci...
+- - Procesori
+  - Samo da pogledam koje procesore imamo
+- - Koje procesore imas?
+  - Samo da pogledam koje procesore imamo
+- - Kakve procesore imas?
+  - Samo da pogledam koje procesore imamo
+- - Graficke kartice
+  - Samo da pogledam koje graficke imamo
+- - Koje graficke kartice imas?
+  - Samo da pogledam koje graficke imamo
+- - Kakve graficke kartice imas?
+  - Samo da pogledam koje graficke imamo
+- - Diskovi
+  - Samo da pogledam koje diskove imamo
+- - Koje diskove imas?
+  - Samo da pogledam koje diskove imamo
+- - Kakve diskove imas?
+  - Samo da pogledam koje diskove imamo
+- - Napajanja
+  - Samo da pogledam koja napajanja imamo
+- - Daj mi sva napajanja?
+  - Samo da pogledam koja napajanja imamo
+- - Koja napajanja imas?
+  - Samo da pogledam koja napajanja imamo
+- - Kakva napajanja imas?
+  - Samo da pogledam koja napajanja imamo
+- - Napajanje?
+  - Samo da pogledam koja napajanja imamo
+- - Mogu nesto kupiti?
+  - Naravno, reci sto zelis.
+- - Htio bih nesto kupiti
+  - Naravno, reci sto zelis.
+- - Nesto bih kupio
+  - Naravno, reci sto zelis.
+- - Hvala
+  - Nema na cemu :D
+- - Sto imam u kosarici?
+  - Samo da pitam prodavaca
+- - Zelim odustati od kupnje
+  - U redu, ispraznit cu kosaricu.
+- - Zelio bih odustati od kupnje
+  - U redu, ispraznit cu kosaricu.
+- - Htio bih odustati od kupnje
+  - U redu, ispraznit cu kosaricu.
+- - Preporuci mi nesto
+  - Na temelju onog što imaš u kosarici mogu ti preporuciti sljedece
+- - Daj mi neku preporuku
+  - Na temelju onog što imaš u kosarici mogu ti preporuciti sljedece
+- - Htio bih izvrsiti kupnju
+  - U redu, hvala na kupnji
+- - Zavrsio bih kupnju
+  - U redu, hvala na kupnji
+- - Ti si pametan
+  - Znam...
+- - Koje je moje stanje racuna?
+  - Na racunu imas
+- - Kakvo je moje stanje racuna?
+  - Na racunu imas
+- - Koliko novaca imam na racunu?
+  - Na racunu imas
